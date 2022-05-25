@@ -1,0 +1,25 @@
+{
+  "name": "Modulo04_BKE_Blue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts":{
+    "start": "node dist/index.js",
+    "build": "npx tsc",
+    "build-and-run": "npm run build && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuelevaristo/Modulo04_BKE_Blue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuelevaristo/Modulo04_BKE_Blue/issues"
+  },
+  "homepage": "https://github.com/Manuelevaristo/Modulo04_BKE_Blue#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
